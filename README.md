@@ -1,74 +1,42 @@
-# Hi there 👋 I'm Seerat Kaur
+## Hi 👋 I'm Seerat Kaur
 
-🎯 Data Analyst | Data Science Enthusiast
+**Data Analyst | Python • SQL • Machine Learning • Power BI**
 
-I enjoy working with data to uncover insights and build data-driven solutions using **Python, SQL, Machine Learning and Data Visualization tools**.
-
----
-
-## 🧰 Tech Stack
-
-**Languages**
-- Python
-- SQL
-
-**Data Analysis & Machine Learning**
-- Pandas
-- NumPy
-- Scikit-learn
-- Data Cleaning
-- Feature Engineering
-
-**Data Visualization**
-- Power BI
-- Matplotlib
-- Seaborn
-
-**Tools**
-- Jupyter Notebook
-- Git & GitHub
-- PostgreSQL
-- Excel
+I enjoy working with data to uncover insights and build data-driven solutions using analytics, machine learning and visualisation tools.
 
 ---
 
-## 📊 Featured Projects
+### 🛠 Tech Stack
 
-### UK Job Market Analysis
-Machine learning project analysing UK job market data to predict salary ranges and identify hiring trends.
-
-### Banking Fraud Detection & Risk Scoring
-Simulated digital banking transaction monitoring system using anomaly detection and risk scoring techniques.
-
-### Netflix Data Analysis Dashboard
-Power BI dashboard analysing Netflix movies and TV shows using IMDb datasets.
-
-### Automatic Number Plate Recognition
-Computer vision project detecting European vehicle number plates using Python.
+**Languages:** Python, SQL  
+**Data:** Pandas, NumPy, Scikit-learn  
+**Visualisation:** Power BI, Matplotlib, Seaborn  
+**Tools:** Jupyter, PostgreSQL, Git, Excel
 
 ---
 
-## 📈 Currently Learning
+### 📊 Featured Projects
 
-- Advanced Machine Learning
-- Feature Engineering
-- Data Science project pipelines
-- Model evaluation techniques
+**UK Job Market Analysis**  
+Machine learning model predicting salary ranges and analysing hiring trends.
 
----
+**Fraud Detection & Risk Scoring**  
+Simulated banking transaction monitoring system using anomaly detection.
 
-## 📂 My GitHub Portfolio
+**Netflix Data Dashboard**  
+Power BI dashboard analysing Netflix movies and TV shows.
 
-This GitHub profile contains projects related to:
-
-- Data analysis
-- Machine learning
-- SQL database systems
-- Data visualisation
+**Automatic Number Plate Recognition**  
+Computer vision project detecting EU vehicle plates using Python.
 
 ---
 
-## 📫 Connect With Me
+### 📚 Currently Learning
+Advanced machine learning • Feature engineering • End-to-end data science workflows
+
+---
+
+### 🔗 Connect with me
 
 LinkedIn: https://www.linkedin.com/in/seerat-kaur-4878bb249
 
@@ -78,6 +46,6 @@ GitHub: https://github.com/KaurSeerat
 
 ⭐ Feel free to explore my repositories and projects.
 
-
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaurSeerat&layout=compact)
