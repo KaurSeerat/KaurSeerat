@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi there 👋 I'm Seerat Kaur
 
-<!--
-**KaurSeerat/KaurSeerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Data Science Enthusiast
 
-Here are some ideas to get you started:
+I enjoy working with data to uncover insights and build data-driven solutions using **Python, SQL, Machine Learning and Data Visualization tools**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Data Analysis & Machine Learning**
+- Pandas
+- NumPy
+- Scikit-learn
+- Data Cleaning
+- Feature Engineering
+
+**Data Visualization**
+- Power BI
+- Matplotlib
+- Seaborn
+
+**Tools**
+- Jupyter Notebook
+- Git & GitHub
+- PostgreSQL
+- Excel
+
+---
+
+## 📊 Featured Projects
+
+### UK Job Market Analysis
+Machine learning project analysing UK job market data to predict salary ranges and identify hiring trends.
+
+### Banking Fraud Detection & Risk Scoring
+Simulated digital banking transaction monitoring system using anomaly detection and risk scoring techniques.
+
+### Netflix Data Analysis Dashboard
+Power BI dashboard analysing Netflix movies and TV shows using IMDb datasets.
+
+### Automatic Number Plate Recognition
+Computer vision project detecting European vehicle number plates using Python.
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Machine Learning
+- Feature Engineering
+- Data Science project pipelines
+- Model evaluation techniques
+
+---
+
+## 📂 My GitHub Portfolio
+
+This GitHub profile contains projects related to:
+
+- Data analysis
+- Machine learning
+- SQL database systems
+- Data visualisation
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/seerat-kaur-4878bb249
+
+GitHub: https://github.com/KaurSeerat
+
+---
+
+⭐ Feel free to explore my repositories and projects.
