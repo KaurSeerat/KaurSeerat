@@ -77,3 +77,7 @@ GitHub: https://github.com/KaurSeerat
 ---
 
 ⭐ Feel free to explore my repositories and projects.
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaurSeerat&layout=compact)
