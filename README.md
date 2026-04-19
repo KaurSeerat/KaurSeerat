@@ -45,7 +45,7 @@ Power BI dashboard analysing Netflix content trends using IMDb ratings data.
 ## 📚 Currently Working On
 
 - Extending Anomaly Detection project with ML model comparison (logistic regression vs rule-based scoring)
-- Open to **Junior Data Analyst** roles in UK 🇬🇧
+- Open to **Data Analyst** roles in UK 🇬🇧
 
 ---
 
